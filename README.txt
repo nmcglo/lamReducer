@@ -1,9 +1,5 @@
 README -- LambdaReducer.hs
 
-Author: Neil McGlohon - 661431383 - mcglon@rpi.edu
-
-To run: run like you would PA1SampleUsage.hs as supplied by the course website.
-
 --------------------------
 
 Features:
